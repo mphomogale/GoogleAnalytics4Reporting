@@ -1,9 +1,3 @@
-# GoogleAnalytics4Reporting
-Google Looker Studio Project with GA4 and BigQuery
-Sure! Based on the attached image, I’ll expand the README to better reflect the specific features and metrics displayed in your Looker Studio dashboard. Here’s an updated version:
-
----
-
 # Google Looker Studio Project with GA4 and BigQuery
 
 ![Project Status](https://img.shields.io/badge/Project-Active-brightgreen)
